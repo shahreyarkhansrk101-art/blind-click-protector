@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Blind Click Protector",
+  "version": "1.0",
+  "description": "AI-powered scanner for Terms of Service and Privacy Policies.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
